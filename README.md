@@ -1,3 +1,8 @@
+-=(Chess_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 # Chess
 
 All Settings are available through OSD:
