@@ -28,3 +28,4 @@ set_global_assignment -name VHDL_FILE rtl/overlay.vhd
 set_global_assignment -name VHDL_FILE rtl/Progressbar.vhd
 set_global_assignment -name VHDL_FILE rtl/TopModule.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE Chess.sv
+set_global_assignment -name SDC_FILE Chess.sdc
